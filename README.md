@@ -1,8 +1,11 @@
 # IF_CleanCode
 인터페이스 클린코드 스터디
 
+Java를 기준으로 규칙을 정합니다.  
+IF_Rule.md를 통해 정해진 규칙들을 보실 수 있습니다.  
 누구나 PR이나 Issue 작성을 통해서 해당 프로젝트에 기여할 수 있습니다.  
-오류 수정요청이나 새로운 규칙에 대한 건의는 언제나 환영합니다.  
+오류 수정요청이나 새로운 규칙에 대한 건의는 언제나 환영합니다. 
+
 
 무엇을 하나요?
 ----------------
@@ -20,6 +23,9 @@
 2. 지금까지 배웠던 여러가지 기술들을 습관적으로 사용할 수 있게 훈련한다. (Git, CleanCode, 클래스 설계, 객체지향 프로그래밍 등)
 
 
-
 스터디 멤버
 -------------
+주이식  [jkey20](https://github.com/jkey20)  
+강근우  [moaikang](https://github.com/moaikang)  
+김하늬  [kimhanui](https://github.com/kimhanui)  
+이현주  [alro923](https://github.com/alro923)  
